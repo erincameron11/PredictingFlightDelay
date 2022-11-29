@@ -1,0 +1,953 @@
+,Method,Feature,Feature Coefficient
+0,LogisticRegression,Month__4,1.3056234749139868
+1,LogisticRegression,Month__3,0.8713200936665887
+2,LogisticRegression,DayofMonth__31,0.6291132175727076
+3,LogisticRegression,Airline__Allegiant Air,0.5765560034447489
+4,LogisticRegression,Year__2020,0.4663394520952301
+5,LogisticRegression,OriginStateName__New Jersey,0.4198584240528566
+6,LogisticRegression,"OriginCityName__Newark, NJ",0.39975756066666374
+7,LogisticRegression,DestStateName__New Jersey,0.3878662623723568
+8,LogisticRegression,"DestCityName__Newark, NJ",0.37076655782066453
+9,LogisticRegression,DayofMonth__30,0.3393974389789586
+10,LogisticRegression,"DestCityName__Dallas/Fort Worth, TX",0.32105913021035354
+11,LogisticRegression,Quarter__1,0.30230062594247287
+12,LogisticRegression,DestStateName__New York,0.29664148167255444
+13,LogisticRegression,DayofMonth__26,0.2865893084326572
+14,LogisticRegression,Airline__Mesa Airlines Inc.,0.27038938601891194
+15,LogisticRegression,"Airline__Commutair Aka Champlain Enterprises, Inc.",0.26305797592458574
+16,LogisticRegression,OriginStateName__New York,0.2589440054060197
+17,LogisticRegression,"DestCityName__San Francisco, CA",0.2541049625576948
+18,LogisticRegression,"OriginCityName__New York, NY",0.24765751228289437
+19,LogisticRegression,Airline__Capital Cargo International,0.22131680599411233
+20,LogisticRegression,"DestCityName__New York, NY",0.21898844620101507
+21,LogisticRegression,Month__8,0.20929477084892728
+22,LogisticRegression,DayofMonth__15,0.20662304348476868
+23,LogisticRegression,DestStateName__Illinois,0.2062285366464054
+24,LogisticRegression,Airline__ExpressJet Airlines Inc.,0.1779909802395045
+25,LogisticRegression,"DestCityName__Chicago, IL",0.16813158380309828
+26,LogisticRegression,Airline__Comair Inc.,0.16279937520703017
+27,LogisticRegression,Quarter__2,0.16173873014269172
+28,LogisticRegression,Airline__Trans States Airlines,0.15975804427778428
+29,LogisticRegression,OriginStateName__Illinois,0.15966931039345061
+30,LogisticRegression,OriginStateName__Louisiana,0.15946643778872038
+31,LogisticRegression,DayofMonth__27,0.15873196130007577
+32,LogisticRegression,"OriginCityName__New Orleans, LA",0.15732409306175757
+33,LogisticRegression,DayofMonth__2,0.1526111567575307
+34,LogisticRegression,Airline__Horizon Air,0.1522237436450434
+35,LogisticRegression,OriginStateName__Alaska,0.1505128982323391
+36,LogisticRegression,DayofMonth__11,0.14914655952438774
+37,LogisticRegression,DayofMonth__29,0.1458801790702253
+38,LogisticRegression,DestStateName__North Carolina,0.14268848441260465
+39,LogisticRegression,DayofMonth__1,0.1411232872155422
+40,LogisticRegression,Month__12,0.13688040016301528
+41,LogisticRegression,"OriginCityName__Burbank, CA",0.1363192777061941
+42,LogisticRegression,"DestCityName__New Orleans, LA",0.13281957409010534
+43,LogisticRegression,OriginStateName__Massachusetts,0.1291804680923321
+44,LogisticRegression,"OriginCityName__Chicago, IL",0.12270695767859027
+45,LogisticRegression,Airline__Southwest Airlines Co.,0.11874644760632154
+46,LogisticRegression,"OriginCityName__San Francisco, CA",0.11193429496258994
+47,LogisticRegression,OriginStateName__Virginia,0.10892993414973476
+48,LogisticRegression,DestStateName__Louisiana,0.1071064007367461
+49,LogisticRegression,OriginStateName__South Carolina,0.10436774967121083
+50,LogisticRegression,"OriginCityName__Dallas/Fort Worth, TX",0.10397123942573382
+51,LogisticRegression,"OriginCityName__Charleston, SC",0.10333321425447412
+52,LogisticRegression,Airline__Air Wisconsin Airlines Corp,0.10008174601478946
+53,LogisticRegression,DestStateName__Virginia,0.09807893497331059
+54,LogisticRegression,DestStateName__Pennsylvania,0.09723533878564815
+55,LogisticRegression,"DestCityName__Burbank, CA",0.09694739949817473
+56,LogisticRegression,"DestCityName__Philadelphia, PA",0.09594169219720217
+57,LogisticRegression,"OriginCityName__Aspen, CO",0.09239393610022102
+58,LogisticRegression,DestStateName__Colorado,0.09144308786167776
+59,LogisticRegression,OriginStateName__Colorado,0.09072308353419281
+60,LogisticRegression,DestStateName__Alaska,0.0899355862665463
+61,LogisticRegression,DestStateName__Iowa,0.08694306611230124
+62,LogisticRegression,"OriginCityName__Dallas, TX",0.08524524071758051
+63,LogisticRegression,Airline__Empire Airlines Inc.,0.08047566768374556
+64,LogisticRegression,"DestCityName__Greensboro/High Point, NC",0.07966104598276194
+65,LogisticRegression,Airline__Peninsula Airways Inc.,0.07500819169781392
+66,LogisticRegression,DayofMonth__21,0.07360345426684552
+67,LogisticRegression,"OriginCityName__Boston, MA",0.06901449554439862
+68,LogisticRegression,OriginStateName__South Dakota,0.06693005917666628
+69,LogisticRegression,"OriginCityName__Cleveland, OH",0.06656752852268832
+70,LogisticRegression,DestStateName__Texas,0.06449060031939305
+71,LogisticRegression,"DestCityName__Savannah, GA",0.0632851315644347
+72,LogisticRegression,OriginStateName__Missouri,0.060966813057398414
+73,LogisticRegression,"DestCityName__Valparaiso, FL",0.06016558314377661
+74,LogisticRegression,DestStateName__North Dakota,0.05989387489428393
+75,LogisticRegression,"DestCityName__Washington, DC",0.057085392059042075
+76,LogisticRegression,"DestCityName__Anchorage, AK",0.056170248883053595
+77,LogisticRegression,"OriginCityName__Myrtle Beach, SC",0.055182513104521026
+78,LogisticRegression,"DestCityName__Cedar Rapids/Iowa City, IA",0.05472106244807594
+79,LogisticRegression,DestStateName__Washington,0.05414964110830031
+80,LogisticRegression,DayofMonth__7,0.052346344754316536
+81,LogisticRegression,"OriginCityName__Valparaiso, FL",0.05096379033219421
+82,LogisticRegression,"DestCityName__Aspen, CO",0.05063043516842605
+83,LogisticRegression,"DestCityName__Pensacola, FL",0.050540465794725
+84,LogisticRegression,Airline__Envoy Air,0.05031809973101492
+85,LogisticRegression,"OriginCityName__Sun Valley/Hailey/Ketchum, ID",0.050192241733342545
+86,LogisticRegression,"OriginCityName__Buffalo, NY",0.0495683946148051
+87,LogisticRegression,"OriginCityName__Tulsa, OK",0.049408481549774924
+88,LogisticRegression,OriginStateName__Maine,0.04926739711436214
+89,LogisticRegression,"OriginCityName__Arcata/Eureka, CA",0.04758915146463283
+90,LogisticRegression,OriginStateName__Nebraska,0.04729893217338807
+91,LogisticRegression,"DestCityName__Norfolk, VA",0.04717458949379584
+92,LogisticRegression,"OriginCityName__Key West, FL",0.04700781733833054
+93,LogisticRegression,OriginStateName__Wyoming,0.04549070899893772
+94,LogisticRegression,"OriginCityName__Norfolk, VA",0.04474762800285326
+95,LogisticRegression,"OriginCityName__Savannah, GA",0.0445677185387168
+96,LogisticRegression,"OriginCityName__Rochester, MN",0.0435101945114506
+97,LogisticRegression,"OriginCityName__Nantucket, MA",0.04249907982980697
+98,LogisticRegression,Airline__American Airlines Inc.,0.042424671569880806
+99,LogisticRegression,OriginStateName__North Dakota,0.0420002831649361
+100,LogisticRegression,"DestCityName__Colorado Springs, CO",0.04195189077378419
+101,LogisticRegression,"DestCityName__Des Moines, IA",0.041902469038600364
+102,LogisticRegression,"OriginCityName__Lincoln, NE",0.04177155815845366
+103,LogisticRegression,"OriginCityName__Unalaska, AK",0.04138062755635243
+104,LogisticRegression,"DestCityName__Myrtle Beach, SC",0.040707910392690255
+105,LogisticRegression,"DestCityName__West Palm Beach/Palm Beach, FL",0.04018337711455966
+106,LogisticRegression,"DestCityName__Providence, RI",0.03996764226354593
+107,LogisticRegression,DestStateName__Rhode Island,0.03996764226354593
+108,LogisticRegression,DestStateName__Kansas,0.039914585804502606
+109,LogisticRegression,"OriginCityName__St. Petersburg, FL",0.03868276394850252
+110,LogisticRegression,"OriginCityName__Sioux Falls, SD",0.0383102471953231
+111,LogisticRegression,"DestCityName__Wilmington, NC",0.03770998460391295
+112,LogisticRegression,"DestCityName__White Plains, NY",0.037536364004698945
+113,LogisticRegression,"OriginCityName__Cedar Rapids/Iowa City, IA",0.03708120669117517
+114,LogisticRegression,DayofMonth__25,0.037021281095096406
+115,LogisticRegression,"DestCityName__Sanford, FL",0.03683725704903535
+116,LogisticRegression,"OriginCityName__Wilmington, NC",0.03664486330006219
+117,LogisticRegression,OriginStateName__Ohio,0.03458673645563709
+118,LogisticRegression,"DestCityName__Lafayette, LA",0.03448097432569611
+119,LogisticRegression,"DestCityName__Akron, OH",0.033950878948710385
+120,LogisticRegression,"DestCityName__Syracuse, NY",0.0338780628075707
+121,LogisticRegression,"DestCityName__Unalaska, AK",0.03362756413873391
+122,LogisticRegression,"DestCityName__Eagle, CO",0.03358705424696844
+123,LogisticRegression,"DestCityName__Yakima, WA",0.03342158527613946
+124,LogisticRegression,"OriginCityName__Kansas City, MO",0.033269873407961024
+125,LogisticRegression,"OriginCityName__Sanford, FL",0.033115776345636054
+126,LogisticRegression,"OriginCityName__Columbia, MO",0.03303309630021469
+127,LogisticRegression,"DestCityName__Everett, WA",0.03294034353069544
+128,LogisticRegression,"DestCityName__Flagstaff, AZ",0.032747648870925586
+129,LogisticRegression,"OriginCityName__Lubbock, TX",0.03247140681062537
+130,LogisticRegression,"OriginCityName__Springfield, MO",0.03246026150400279
+131,LogisticRegression,"DestCityName__Allentown/Bethlehem/Easton, PA",0.03236359400859924
+132,LogisticRegression,"DestCityName__San Jose, CA",0.03145541778443533
+133,LogisticRegression,"OriginCityName__Jamestown, ND",0.030909537236961965
+134,LogisticRegression,"OriginCityName__Kapalua, HI",0.03036719108758372
+135,LogisticRegression,"DestCityName__Kapalua, HI",0.02999113228105924
+136,LogisticRegression,"OriginCityName__Allentown/Bethlehem/Easton, PA",0.029589762354873487
+137,LogisticRegression,DestStateName__Mississippi,0.029138028087867033
+138,LogisticRegression,"OriginCityName__Lanai, HI",0.028091377717147484
+139,LogisticRegression,"OriginCityName__Omaha, NE",0.027952189474142283
+140,LogisticRegression,"DestCityName__Lubbock, TX",0.027261182983030582
+141,LogisticRegression,"OriginCityName__Eagle, CO",0.027255959192854087
+142,LogisticRegression,"OriginCityName__Anchorage, AK",0.027237018679801744
+143,LogisticRegression,"OriginCityName__Santa Rosa, CA",0.02709084415509091
+144,LogisticRegression,"DestCityName__Flint, MI",0.026891711150361614
+145,LogisticRegression,"OriginCityName__Greensboro/High Point, NC",0.026763857532860234
+146,LogisticRegression,"OriginCityName__Tampa, FL",0.026610663277160346
+147,LogisticRegression,"DestCityName__Fargo, ND",0.026411032747670142
+148,LogisticRegression,DayOfWeek__1,0.026047807604503415
+149,LogisticRegression,"DestCityName__Pasco/Kennewick/Richland, WA",0.025916449129335464
+150,LogisticRegression,"DestCityName__Wichita Falls, TX",0.025355337502468694
+151,LogisticRegression,"OriginCityName__Richmond, VA",0.025330777214181373
+152,LogisticRegression,"DestCityName__Devils Lake, ND",0.0249295421866366
+153,LogisticRegression,OriginStateName__West Virginia,0.024675697231511154
+154,LogisticRegression,"DestCityName__Baltimore, MD",0.02451682860144629
+155,LogisticRegression,"OriginCityName__Portland, ME",0.024313569135948634
+156,LogisticRegression,"DestCityName__Bellingham, WA",0.024082962054178123
+157,LogisticRegression,OriginStateName__Pennsylvania,0.02378917781204496
+158,LogisticRegression,DayOfWeek__3,0.02367953701834328
+159,LogisticRegression,"DestCityName__Moline, IL",0.023499504348237294
+160,LogisticRegression,"DestCityName__Trenton, NJ",0.023295776815724534
+161,LogisticRegression,"OriginCityName__Gunnison, CO",0.023043172256246632
+162,LogisticRegression,"DestCityName__New Bern/Morehead/Beaufort, NC",0.022825626196714736
+163,LogisticRegression,"DestCityName__Dallas, TX",0.022683303316483282
+164,LogisticRegression,"OriginCityName__Montrose/Delta, CO",0.022642432139075238
+165,LogisticRegression,"DestCityName__Santa Rosa, CA",0.02234383132403425
+166,LogisticRegression,OriginStateName__Kansas,0.02193991419218753
+167,LogisticRegression,"OriginCityName__Mission/McAllen/Edinburg, TX",0.021854426349902603
+168,LogisticRegression,"OriginCityName__Hartford, CT",0.021301112016659334
+169,LogisticRegression,"DestCityName__Boston, MA",0.02129703301905831
+170,LogisticRegression,"OriginCityName__Grand Rapids, MI",0.021265077032646233
+171,LogisticRegression,"OriginCityName__Aberdeen, SD",0.021193442818272474
+172,LogisticRegression,"DestCityName__International Falls, MN",0.021120560555518746
+173,LogisticRegression,"DestCityName__Muskegon, MI",0.021005173080491126
+174,LogisticRegression,OriginStateName__Connecticut,0.020685585103888703
+175,LogisticRegression,"DestCityName__Jackson/Vicksburg, MS",0.020530235916607336
+176,LogisticRegression,"DestCityName__Asheville, NC",0.020346039758409085
+177,LogisticRegression,"OriginCityName__Jackson, WY",0.020299853513116285
+178,LogisticRegression,"DestCityName__Mobile, AL",0.020153705295551817
+179,LogisticRegression,"DestCityName__Bismarck/Mandan, ND",0.019838442724290625
+180,LogisticRegression,"OriginCityName__Yakutat, AK",0.01969981252690793
+181,LogisticRegression,"OriginCityName__Amarillo, TX",0.0196667608829448
+182,LogisticRegression,DestStateName__Maryland,0.01965741115780351
+183,LogisticRegression,"DestCityName__Jacksonville, FL",0.019601657880761212
+184,LogisticRegression,"OriginCityName__Charlottesville, VA",0.019562645240782654
+185,LogisticRegression,"OriginCityName__Madison, WI",0.019358921700712666
+186,LogisticRegression,"OriginCityName__Rock Springs, WY",0.019234723816437062
+187,LogisticRegression,"OriginCityName__Brownsville, TX",0.01894583164582365
+188,LogisticRegression,"OriginCityName__Toledo, OH",0.018846298283770883
+189,LogisticRegression,"DestCityName__Mammoth Lakes, CA",0.018645842929435708
+190,LogisticRegression,"DestCityName__Evansville, IN",0.018623945038614725
+191,LogisticRegression,"DestCityName__Rochester, NY",0.018251742388392594
+192,LogisticRegression,"DestCityName__Buffalo, NY",0.017905694961449347
+193,LogisticRegression,"OriginCityName__Pasco/Kennewick/Richland, WA",0.01750696484486635
+194,LogisticRegression,"DestCityName__Jacksonville/Camp Lejeune, NC",0.017494834837923905
+195,LogisticRegression,"OriginCityName__Monterey, CA",0.017375937336941726
+196,LogisticRegression,"DestCityName__St. Louis, MO",0.017353837248825058
+197,LogisticRegression,"OriginCityName__Waco, TX",0.01638453596346562
+198,LogisticRegression,"OriginCityName__Rapid City, SD",0.01628181000700812
+199,LogisticRegression,"DestCityName__Los Angeles, CA",0.016219044983883976
+200,LogisticRegression,"DestCityName__Hays, KS",0.01614875966893704
+201,LogisticRegression,"DestCityName__Lexington, KY",0.01607306258793372
+202,LogisticRegression,"OriginCityName__Yakima, WA",0.015707478339906964
+203,LogisticRegression,"DestCityName__Wichita, KS",0.015661484490745194
+204,LogisticRegression,"DestCityName__Laramie, WY",0.015616250856282009
+205,LogisticRegression,"OriginCityName__Jacksonville, FL",0.015570261756493817
+206,LogisticRegression,"DestCityName__Fort Smith, AR",0.01537559913118936
+207,LogisticRegression,"OriginCityName__Laredo, TX",0.015351477394394452
+208,LogisticRegression,"OriginCityName__Worcester, MA",0.015349681112792148
+209,LogisticRegression,"DestCityName__Duluth, MN",0.015272717194162877
+210,LogisticRegression,"DestCityName__King Salmon, AK",0.015019829690761839
+211,LogisticRegression,"OriginCityName__Williston, ND",0.01490225347636826
+212,LogisticRegression,"OriginCityName__Moline, IL",0.014848141245873294
+213,LogisticRegression,"OriginCityName__Roswell, NM",0.014615715249966394
+214,LogisticRegression,"DestCityName__Raleigh/Durham, NC",0.014612740787278318
+215,LogisticRegression,"DestCityName__Tallahassee, FL",0.014411048740271612
+216,LogisticRegression,"DestCityName__Meridian, MS",0.014405063647228543
+217,LogisticRegression,"DestCityName__St. Petersburg, FL",0.014243527419702744
+218,LogisticRegression,DayOfWeek__4,0.01415441793796668
+219,LogisticRegression,"OriginCityName__Rochester, NY",0.014062001225590506
+220,LogisticRegression,"OriginCityName__Vernal, UT",0.01404898998241176
+221,LogisticRegression,"OriginCityName__Charlotte Amalie, VI",0.014026487354458907
+222,LogisticRegression,"OriginCityName__Elko, NV",0.013931662280891106
+223,LogisticRegression,"OriginCityName__Adak Island, AK",0.013921532522794131
+224,LogisticRegression,"OriginCityName__Salisbury, MD",0.01386164365706962
+225,LogisticRegression,"OriginCityName__Bangor, ME",0.013773936613701146
+226,LogisticRegression,"OriginCityName__San Jose, CA",0.013757857796237954
+227,LogisticRegression,"DestCityName__Ithaca/Cortland, NY",0.013733670264003258
+228,LogisticRegression,"OriginCityName__Wenatchee, WA",0.013629700139353242
+229,LogisticRegression,"OriginCityName__State College, PA",0.01345922824154228
+230,LogisticRegression,"DestCityName__Binghamton, NY",0.013387953514348815
+231,LogisticRegression,"DestCityName__Scranton/Wilkes-Barre, PA",0.013242510264662215
+232,LogisticRegression,"OriginCityName__Juneau, AK",0.0131381494315656
+233,LogisticRegression,"OriginCityName__Colorado Springs, CO",0.012977494542626939
+234,LogisticRegression,"OriginCityName__Kona, HI",0.01290923031696261
+235,LogisticRegression,"OriginCityName__Lafayette, LA",0.012901683816091265
+236,LogisticRegression,"OriginCityName__Hancock/Houghton, MI",0.012751049103143394
+237,LogisticRegression,"OriginCityName__Bristol/Johnson City/Kingsport, TN",0.012710179863352333
+238,LogisticRegression,"DestCityName__Arcata/Eureka, CA",0.012675411256279641
+239,LogisticRegression,"OriginCityName__Baton Rouge, LA",0.012655036231258318
+240,LogisticRegression,"OriginCityName__Roanoke, VA",0.012654335169526437
+241,LogisticRegression,"DestCityName__Paducah, KY",0.012619237435347323
+242,LogisticRegression,OriginStateName__U.S. Virgin Islands,0.012414345297406754
+243,LogisticRegression,"OriginCityName__Belleville, IL",0.01241139648415188
+244,LogisticRegression,"OriginCityName__Milwaukee, WI",0.01236136252293806
+245,LogisticRegression,"OriginCityName__Atlantic City, NJ",0.01233308676678645
+246,LogisticRegression,"DestCityName__Lawton/Fort Sill, OK",0.012264023643567176
+247,LogisticRegression,"DestCityName__Cordova, AK",0.012094645492103082
+248,LogisticRegression,"OriginCityName__Newburgh/Poughkeepsie, NY",0.01186010075524862
+249,LogisticRegression,"OriginCityName__Elmira/Corning, NY",0.01184671367185669
+250,LogisticRegression,"OriginCityName__Salina, KS",0.011739306171736751
+251,LogisticRegression,"DestCityName__Liberal, KS",0.01163784830865163
+252,LogisticRegression,"OriginCityName__Santa Barbara, CA",0.011621109359739515
+253,LogisticRegression,"OriginCityName__Lynchburg, VA",0.01154422020478714
+254,LogisticRegression,"DestCityName__Medford, OR",0.011479844761667085
+255,LogisticRegression,DestStateName__South Carolina,0.011402792156329295
+256,LogisticRegression,"OriginCityName__Tyler, TX",0.011253053354455615
+257,LogisticRegression,"OriginCityName__Presque Isle/Houlton, ME",0.011179891361983576
+258,LogisticRegression,"DestCityName__Rochester, MN",0.011032349405777957
+259,LogisticRegression,"DestCityName__Erie, PA",0.011029879267654995
+260,LogisticRegression,"OriginCityName__Bellingham, WA",0.010923370547239445
+261,LogisticRegression,"OriginCityName__Quincy, IL",0.010865602904513315
+262,LogisticRegression,"DestCityName__Roanoke, VA",0.010650272093120885
+263,LogisticRegression,"OriginCityName__Sitka, AK",0.01061964867741702
+264,LogisticRegression,"DestCityName__Williamsport, PA",0.01051965313221351
+265,LogisticRegression,"DestCityName__Saginaw/Bay City/Midland, MI",0.010508306983551494
+266,LogisticRegression,"OriginCityName__Sarasota/Bradenton, FL",0.01049171049206028
+267,LogisticRegression,"DestCityName__Texarkana, AR",0.010338187879501286
+268,LogisticRegression,"OriginCityName__Charleston/Dunbar, WV",0.010311878844744849
+269,LogisticRegression,"DestCityName__Kearney, NE",0.010111848144092156
+270,LogisticRegression,"DestCityName__Columbia, MO",0.009900041616561788
+271,LogisticRegression,"OriginCityName__Evansville, IN",0.009756702709346927
+272,LogisticRegression,"OriginCityName__Augusta, GA",0.009730027509909454
+273,LogisticRegression,"OriginCityName__Washington, DC",0.009718997271539418
+274,LogisticRegression,"OriginCityName__Philadelphia, PA",0.009707313026560652
+275,LogisticRegression,"DestCityName__Adak Island, AK",0.009704664018918382
+276,LogisticRegression,"OriginCityName__Lewisburg, WV",0.009692093011988718
+277,LogisticRegression,"OriginCityName__Kalamazoo, MI",0.009294697098445012
+278,LogisticRegression,"OriginCityName__Garden City, KS",0.009162851397388582
+279,LogisticRegression,"OriginCityName__Santa Fe, NM",0.009107258426283169
+280,LogisticRegression,"DestCityName__Santa Maria, CA",0.008889909911533989
+281,LogisticRegression,"OriginCityName__Clarksburg/Fairmont, WV",0.008784152996927525
+282,LogisticRegression,"OriginCityName__South Bend, IN",0.008619175431888136
+283,LogisticRegression,"DestCityName__Charleston/Dunbar, WV",0.008592593117342914
+284,LogisticRegression,"DestCityName__Daytona Beach, FL",0.008435830288678513
+285,LogisticRegression,"DestCityName__Champaign/Urbana, IL",0.008375136297428793
+286,LogisticRegression,"OriginCityName__Peoria, IL",0.008310977885568472
+287,LogisticRegression,"OriginCityName__Florence, SC",0.008291736379813874
+288,LogisticRegression,"DestCityName__Lincoln, NE",0.008291599916453016
+289,LogisticRegression,"DestCityName__Sioux Falls, SD",0.00827912949351163
+290,LogisticRegression,"DestCityName__Casper, WY",0.008274009108929224
+291,LogisticRegression,"DestCityName__Cold Bay, AK",0.008222728705088028
+292,LogisticRegression,"OriginCityName__Jacksonville/Camp Lejeune, NC",0.008211929024663375
+293,LogisticRegression,"DestCityName__State College, PA",0.00811125661519672
+294,LogisticRegression,"OriginCityName__Daytona Beach, FL",0.008054092750526392
+295,LogisticRegression,"OriginCityName__Duluth, MN",0.007957474675728599
+296,LogisticRegression,"DestCityName__Springfield, MO",0.007881014012959079
+297,LogisticRegression,"OriginCityName__Trenton, NJ",0.0077677765976203695
+298,LogisticRegression,"DestCityName__Green Bay, WI",0.007765042009837571
+299,LogisticRegression,"OriginCityName__San Angelo, TX",0.0077591820361432706
+300,LogisticRegression,"DestCityName__Jamestown, ND",0.007575399486015161
+301,LogisticRegression,"OriginCityName__Lawton/Fort Sill, OK",0.007499971544753862
+302,LogisticRegression,"DestCityName__Gustavus, AK",0.007393822694903796
+303,LogisticRegression,"DestCityName__Yakutat, AK",0.007346303277326637
+304,LogisticRegression,"OriginCityName__St. Cloud, MN",0.007227204093215057
+305,LogisticRegression,"OriginCityName__Birmingham, AL",0.007139536148008384
+306,LogisticRegression,"OriginCityName__Knoxville, TN",0.0071350474311703636
+307,LogisticRegression,"OriginCityName__Mammoth Lakes, CA",0.007047686574125546
+308,LogisticRegression,"OriginCityName__Dillingham, AK",0.007017553842684708
+309,LogisticRegression,"OriginCityName__Bismarck/Mandan, ND",0.00696694524067676
+310,LogisticRegression,"DestCityName__Fayetteville, NC",0.00681622417136868
+311,LogisticRegression,"OriginCityName__Springfield, IL",0.00680822273233653
+312,LogisticRegression,"OriginCityName__Cold Bay, AK",0.006789532261571233
+313,LogisticRegression,"DestCityName__Cedar City, UT",0.006785255486780406
+314,LogisticRegression,"DestCityName__Punta Gorda, FL",0.006501675420885882
+315,LogisticRegression,"DestCityName__Toledo, OH",0.006480113345007476
+316,LogisticRegression,"DestCityName__Staunton, VA",0.006409401479812888
+317,LogisticRegression,"OriginCityName__Eugene, OR",0.0063176244939201175
+318,LogisticRegression,"DestCityName__Garden City, KS",0.006255249649353692
+319,LogisticRegression,"OriginCityName__Casper, WY",0.006148395662217727
+320,LogisticRegression,"OriginCityName__Huntsville, AL",0.00609063025826591
+321,LogisticRegression,"DestCityName__Bangor, ME",0.006024744523337593
+322,LogisticRegression,"DestCityName__Butte, MT",0.005966987924505307
+323,LogisticRegression,"OriginCityName__Provo, UT",0.005813056395739226
+324,LogisticRegression,"OriginCityName__Pullman, WA",0.00577617103497178
+325,LogisticRegression,"OriginCityName__Harrisburg, PA",0.005654548463638387
+326,LogisticRegression,"OriginCityName__Flint, MI",0.005624795801959787
+327,LogisticRegression,"OriginCityName__Fairbanks, AK",0.005532693365307943
+328,LogisticRegression,"OriginCityName__Victoria, TX",0.005378094412752683
+329,LogisticRegression,"DestCityName__Albany, GA",0.005300980610715736
+330,LogisticRegression,"DestCityName__Laredo, TX",0.005237409127943938
+331,LogisticRegression,"DestCityName__Richmond, VA",0.005230892798511147
+332,LogisticRegression,DestStateName__Massachusetts,0.005172871838558944
+333,LogisticRegression,"DestCityName__Florence, SC",0.005137996586936593
+334,LogisticRegression,"DestCityName__Decatur, IL",0.005126635103427403
+335,LogisticRegression,"OriginCityName__Brainerd, MN",0.005115804451840444
+336,LogisticRegression,"DestCityName__Owensboro, KY",0.005016391913671979
+337,LogisticRegression,"OriginCityName__Petersburg, AK",0.00489808774231721
+338,LogisticRegression,"DestCityName__Sault Ste. Marie, MI",0.0048964208216930255
+339,LogisticRegression,DestStateName__Wyoming,0.004809178794485812
+340,LogisticRegression,"DestCityName__Sarasota/Bradenton, FL",0.004758292189030388
+341,LogisticRegression,"DestCityName__Aguadilla, PR",0.004686660379379343
+342,LogisticRegression,"DestCityName__Dillingham, AK",0.004686622510215715
+343,LogisticRegression,"OriginCityName__Dodge City, KS",0.004579274868934879
+344,LogisticRegression,"OriginCityName__Mobile, AL",0.004372435456255632
+345,LogisticRegression,"DestCityName__Moab, UT",0.004345318304441539
+346,LogisticRegression,"OriginCityName__Rockford, IL",0.004330494711466955
+347,LogisticRegression,"OriginCityName__Bemidji, MN",0.004206276379917886
+348,LogisticRegression,"OriginCityName__Devils Lake, ND",0.004187144435063811
+349,LogisticRegression,"DestCityName__Riverton/Lander, WY",0.004169218569550732
+350,LogisticRegression,"OriginCityName__King Salmon, AK",0.004146599972836557
+351,LogisticRegression,"DestCityName__Quincy, IL",0.004133217571297313
+352,LogisticRegression,"OriginCityName__Cordova, AK",0.004127582042376857
+353,LogisticRegression,"DestCityName__Pierre, SD",0.004054384201881631
+354,LogisticRegression,"DestCityName__Wenatchee, WA",0.0040384969492959725
+355,LogisticRegression,"OriginCityName__Asheville, NC",0.00403277850180164
+356,LogisticRegression,"DestCityName__Gulfport/Biloxi, MS",0.0040293202395147104
+357,LogisticRegression,"DestCityName__Kodiak, AK",0.004021771508862009
+358,LogisticRegression,"DestCityName__Pellston, MI",0.003937575438288647
+359,LogisticRegression,"OriginCityName__Bethel, AK",0.0038665790860999026
+360,LogisticRegression,"OriginCityName__Ponce, PR",0.003622893773758493
+361,LogisticRegression,"OriginCityName__Escanaba, MI",0.0035997911838880244
+362,LogisticRegression,"DestCityName__Scottsbluff, NE",0.0035514110613412493
+363,LogisticRegression,"DestCityName__Memphis, TN",0.003511912471341563
+364,LogisticRegression,"DestCityName__Cody, WY",0.0035115365301685133
+365,LogisticRegression,"DestCityName__Hancock/Houghton, MI",0.0033929249778585197
+366,LogisticRegression,"DestCityName__Montrose/Delta, CO",0.0033918561302033424
+367,LogisticRegression,"DestCityName__Springfield, IL",0.003329637787938994
+368,LogisticRegression,"OriginCityName__Pellston, MI",0.003305067050456131
+369,LogisticRegression,"DestCityName__Ashland, WV",0.0032384489744656146
+370,LogisticRegression,"OriginCityName__Beaumont/Port Arthur, TX",0.0032084131235164755
+371,LogisticRegression,"OriginCityName__Redding, CA",0.0031842481100709456
+372,LogisticRegression,"OriginCityName__Dickinson, ND",0.0031441512870681162
+373,LogisticRegression,"DestCityName__Hayden, CO",0.003135226186828771
+374,LogisticRegression,"OriginCityName__Walla Walla, WA",0.0031350165978770873
+375,LogisticRegression,"OriginCityName__Aguadilla, PR",0.003068849552984932
+376,LogisticRegression,DestStateName__Maine,0.003062962984100208
+377,LogisticRegression,"DestCityName__Brunswick, GA",0.0030477356872185947
+378,LogisticRegression,"OriginCityName__Flagstaff, AZ",0.0030232106538502584
+379,LogisticRegression,"DestCityName__Stockton, CA",0.0029909054178769725
+380,LogisticRegression,"DestCityName__New Haven, CT",0.002909006588136559
+381,LogisticRegression,"OriginCityName__Martha's Vineyard, MA",0.0028272423441418706
+382,LogisticRegression,"OriginCityName__North Bend/Coos Bay, OR",0.0027738302792189185
+383,LogisticRegression,"OriginCityName__Gillette, WY",0.0026927380102133996
+384,LogisticRegression,"OriginCityName__Raleigh/Durham, NC",0.0026762583544186285
+385,LogisticRegression,"DestCityName__Denver, CO",0.002605554951320617
+386,LogisticRegression,"DestCityName__Vernal, UT",0.002603358591559748
+387,LogisticRegression,"DestCityName__Grand Island, NE",0.0026021158350283033
+388,LogisticRegression,"DestCityName__Greer, SC",0.0024719232174382983
+389,LogisticRegression,"OriginCityName__Wichita, KS",0.0024445793245874256
+390,LogisticRegression,"DestCityName__Peoria, IL",0.0024180340818090707
+391,LogisticRegression,"DestCityName__North Bend/Coos Bay, OR",0.0023094351435055086
+392,LogisticRegression,OriginStateName__Vermont,0.002275232603885678
+393,LogisticRegression,"OriginCityName__Burlington, VT",0.002275232603885678
+394,LogisticRegression,"DestCityName__Martha's Vineyard, MA",0.0022749268015311466
+395,LogisticRegression,"DestCityName__Ogden, UT",0.002184501241492071
+396,LogisticRegression,"OriginCityName__Laramie, WY",0.0021685458419923487
+397,LogisticRegression,"OriginCityName__Bend/Redmond, OR",0.002035984871688403
+398,LogisticRegression,"DestCityName__Williston, ND",0.0019987012596886095
+399,LogisticRegression,"OriginCityName__Hoolehua, HI",0.0019505272862091608
+400,LogisticRegression,"DestCityName__Alpena, MI",0.0019236755314049159
+401,LogisticRegression,"OriginCityName__Kodiak, AK",0.001903190018133771
+402,LogisticRegression,"OriginCityName__Cape Girardeau, MO",0.001847161941476473
+403,LogisticRegression,"OriginCityName__Fargo, ND",0.0018082273000006005
+404,LogisticRegression,"DestCityName__Cheyenne, WY",0.0017990387688037554
+405,LogisticRegression,"DestCityName__Kalispell, MT",0.0017633892994134066
+406,LogisticRegression,"DestCityName__Manhattan/Ft. Riley, KS",0.0017077746570116166
+407,LogisticRegression,"OriginCityName__Erie, PA",0.0016056968049825838
+408,LogisticRegression,"OriginCityName__Harlingen/San Benito, TX",0.001549251435742147
+409,LogisticRegression,"OriginCityName__Riverton/Lander, WY",0.001436997632168345
+410,LogisticRegression,"OriginCityName__Binghamton, NY",0.0014317434991974775
+411,LogisticRegression,"OriginCityName__Lake Charles, LA",0.0014047604193857608
+412,LogisticRegression,"DestCityName__Mosinee, WI",0.0013596861713872663
+413,LogisticRegression,"DestCityName__Ogdensburg, NY",0.0013060742133421495
+414,LogisticRegression,"DestCityName__Cleveland, OH",0.0012293135837125094
+415,LogisticRegression,"OriginCityName__Stillwater, OK",0.0011601466754409156
+416,LogisticRegression,"DestCityName__Yuma, AZ",0.0011405348493614266
+417,LogisticRegression,"OriginCityName__Wrangell, AK",0.0010992997026351501
+418,LogisticRegression,"OriginCityName__Concord, NC",0.0010523719676830707
+419,LogisticRegression,"OriginCityName__Hibbing, MN",0.000968247969933139
+420,LogisticRegression,"OriginCityName__Bakersfield, CA",0.0009422158770842371
+421,LogisticRegression,"DestCityName__Durango, CO",0.0009325567308262322
+422,LogisticRegression,"OriginCityName__Lansing, MI",0.0008679224609548569
+423,LogisticRegression,"DestCityName__Roswell, NM",0.000860485186541943
+424,LogisticRegression,"OriginCityName__Hays, KS",0.0008458876429576908
+425,LogisticRegression,"OriginCityName__Fayetteville, NC",0.0007733922803967882
+426,LogisticRegression,"DestCityName__Belleville, IL",0.0007521949453386286
+427,LogisticRegression,"OriginCityName__Sheridan, WY",0.0007072884676479174
+428,LogisticRegression,"OriginCityName__Great Falls, MT",0.0006177595708843096
+429,LogisticRegression,DestStateName__West Virginia,0.0005113852924162213
+430,LogisticRegression,"DestCityName__Joplin, MO",0.0004890387077636821
+431,LogisticRegression,"OriginCityName__Eau Claire, WI",0.0004549926319191636
+432,LogisticRegression,"OriginCityName__Barrow, AK",0.0002868395243227799
+433,LogisticRegression,OriginStateName__Iowa,0.00021919001735410705
+434,LogisticRegression,"DestCityName__Watertown, NY",0.00018447646026743797
+435,LogisticRegression,"DestCityName__San Angelo, TX",0.0001838132560129064
+436,LogisticRegression,CRSDepTime,0.00016433053210798581
+437,LogisticRegression,"OriginCityName__Muskegon, MI",6.732775577707486e-05
+438,LogisticRegression,"OriginCityName__Kotzebue, AK",1.7411529764064688e-05
+439,LogisticRegression,"DestCityName__Idaho Falls, ID",5.197746623632078e-06
+440,LogisticRegression,"DestCityName__Fort Leonard Wood, MO",0.0
+441,LogisticRegression,"DestCityName__Presque Isle/Houlton, ME",-1.8372451221296516e-05
+442,LogisticRegression,"DestCityName__Lansing, MI",-3.6478114211104914e-05
+443,LogisticRegression,"OriginCityName__Butte, MT",-0.00011679092032243049
+444,LogisticRegression,OriginStateName__Delaware,-0.00012081313345163413
+445,LogisticRegression,"OriginCityName__Wilmington, DE",-0.00012081313345163413
+446,LogisticRegression,"OriginCityName__Abilene, TX",-0.00012373597282438697
+447,LogisticRegression,"OriginCityName__Ogden, UT",-0.00014092256408231767
+448,LogisticRegression,"OriginCityName__La Crosse, WI",-0.00015238770860488463
+449,LogisticRegression,"OriginCityName__Manhattan/Ft. Riley, KS",-0.00016405258053643794
+450,LogisticRegression,"OriginCityName__Pago Pago, TT",-0.00017778115726634614
+451,LogisticRegression,"DestCityName__Pullman, WA",-0.00018850244068320868
+452,LogisticRegression,"OriginCityName__Bishop, CA",-0.0002187593111255076
+453,LogisticRegression,"DestCityName__Wilmington, DE",-0.0002470395688837239
+454,LogisticRegression,DestStateName__Delaware,-0.0002470395688837239
+455,LogisticRegression,Distance,-0.0002994022347093506
+456,LogisticRegression,"DestCityName__Pago Pago, TT",-0.0003489622276516221
+457,LogisticRegression,"OriginCityName__Saginaw/Bay City/Midland, MI",-0.0004941012951581568
+458,LogisticRegression,"OriginCityName__Rota, TT",-0.0005027729361744693
+459,LogisticRegression,"OriginCityName__Hyannis, MA",-0.0005100307599431022
+460,LogisticRegression,"DestCityName__Marquette, MI",-0.0005166931376891673
+461,LogisticRegression,"OriginCityName__Fort Dodge, IA",-0.000526785995675082
+462,LogisticRegression,"DestCityName__Waco, TX",-0.0005273376728012154
+463,LogisticRegression,"OriginCityName__Scranton/Wilkes-Barre, PA",-0.0005274001104049297
+464,LogisticRegression,"OriginCityName__Deadhorse, AK",-0.0005996319161075736
+465,LogisticRegression,"DestCityName__Rota, TT",-0.0006073757897522635
+466,LogisticRegression,"OriginCityName__Twin Falls, ID",-0.0006142052672469421
+467,LogisticRegression,"OriginCityName__New Haven, CT",-0.0006155269114237288
+468,LogisticRegression,"DestCityName__Hyannis, MA",-0.0006377679072374167
+469,LogisticRegression,"OriginCityName__Santa Maria, CA",-0.0006613240845938993
+470,LogisticRegression,"DestCityName__Niagara Falls, NY",-0.0006871469835321819
+471,LogisticRegression,"DestCityName__Sheridan, WY",-0.0007564993736519668
+472,LogisticRegression,"DestCityName__Abilene, TX",-0.0007837336427695042
+473,LogisticRegression,"DestCityName__Fort Dodge, IA",-0.0008216236872726505
+474,LogisticRegression,"OriginCityName__Medford, OR",-0.0008345430493354999
+475,LogisticRegression,"OriginCityName__Gustavus, AK",-0.000899150371887452
+476,LogisticRegression,"OriginCityName__Sioux City, IA",-0.0009001467823451919
+477,LogisticRegression,"DestCityName__CONCORD, NC",-0.0009084121505693238
+478,LogisticRegression,"DestCityName__Branson, MO",-0.000954610851283556
+479,LogisticRegression,"DestCityName__Dothan, AL",-0.0009959595340327974
+480,LogisticRegression,"OriginCityName__Cheyenne, WY",-0.0010059558699763108
+481,LogisticRegression,"OriginCityName__Alamosa, CO",-0.0010334145282934147
+482,LogisticRegression,"OriginCityName__Helena, MT",-0.001161837960880292
+483,LogisticRegression,"DestCityName__Hilton Head, SC",-0.0012359071029293418
+484,LogisticRegression,"DestCityName__St. Cloud, MN",-0.0012641787960243852
+485,LogisticRegression,"OriginCityName__Branson, MO",-0.0012737821831838886
+486,LogisticRegression,"DestCityName__Johnstown, PA",-0.0012856460029405758
+487,LogisticRegression,"DestCityName__Mason City, IA",-0.001288523203460045
+488,LogisticRegression,"OriginCityName__Owensboro, KY",-0.0012936229921989165
+489,LogisticRegression,"OriginCityName__Mason City, IA",-0.0013925563749326664
+490,LogisticRegression,"DestCityName__Lanai, HI",-0.0013927936723686285
+491,LogisticRegression,"OriginCityName__Hilton Head, SC",-0.0014209307679182584
+492,LogisticRegression,"DestCityName__Dubuque, IA",-0.0014442675803947626
+493,LogisticRegression,"DestCityName__Midland/Odessa, TX",-0.0014642889072486824
+494,LogisticRegression,"DestCityName__College Station/Bryan, TX",-0.0014660213690013291
+495,LogisticRegression,"DestCityName__Victoria, TX",-0.0014999960068279008
+496,LogisticRegression,"DestCityName__Alamosa, CO",-0.0015056940970404845
+497,LogisticRegression,"DestCityName__Ponce, PR",-0.00151314561036373
+498,LogisticRegression,"OriginCityName__College Station/Bryan, TX",-0.001519163887333641
+499,LogisticRegression,"DestCityName__Rockford, IL",-0.0015918726714550591
+500,LogisticRegression,"OriginCityName__Christiansted, VI",-0.0016121420576435477
+501,LogisticRegression,"OriginCityName__Hattiesburg/Laurel, MS",-0.0016510097554136842
+502,LogisticRegression,"OriginCityName__Saipan, TT",-0.0016697138698990475
+503,LogisticRegression,"OriginCityName__Paducah, KY",-0.0017127621210374104
+504,LogisticRegression,"OriginCityName__Ithaca/Cortland, NY",-0.0017134272604223885
+505,LogisticRegression,"DestCityName__Hagerstown, MD",-0.0017523122111608583
+506,LogisticRegression,"OriginCityName__Fort Wayne, IN",-0.0019046027318294454
+507,LogisticRegression,"DestCityName__Wrangell, AK",-0.0019450043321561788
+508,LogisticRegression,"OriginCityName__West Yellowstone, MT",-0.0019895174475470564
+509,LogisticRegression,"DestCityName__Redding, CA",-0.0019957759795065436
+510,LogisticRegression,"DestCityName__Sioux City, IA",-0.001998534551663036
+511,LogisticRegression,"OriginCityName__Champaign/Urbana, IL",-0.0022355584601802324
+512,LogisticRegression,"OriginCityName__Hagerstown, MD",-0.0022743647431387503
+513,LogisticRegression,"OriginCityName__Waterloo, IA",-0.0023089600649072012
+514,LogisticRegression,"DestCityName__Latrobe, PA",-0.002319918586526942
+515,LogisticRegression,OriginStateName__Texas,-0.0023921333583866644
+516,LogisticRegression,"DestCityName__Dickinson, ND",-0.002401636810123748
+517,LogisticRegression,"OriginCityName__Moab, UT",-0.0024744688130814035
+518,LogisticRegression,"OriginCityName__Johnstown, PA",-0.002488648834705636
+519,LogisticRegression,"OriginCityName__CONCORD, NC",-0.002498573119448475
+520,LogisticRegression,"OriginCityName__Portsmouth, NH",-0.002520780577923261
+521,LogisticRegression,"DestCityName__Portsmouth, NH",-0.0025378240608036405
+522,LogisticRegression,"DestCityName__West Yellowstone, MT",-0.002557653692920705
+523,LogisticRegression,"DestCityName__Gillette, WY",-0.002792631412490839
+524,LogisticRegression,"DestCityName__Manchester, NH",-0.002833242445307787
+525,LogisticRegression,"OriginCityName__Plattsburgh, NY",-0.002916954528399858
+526,LogisticRegression,"DestCityName__Portland, ME",-0.002943409087556232
+527,LogisticRegression,"DestCityName__Monterey, CA",-0.002964571274748152
+528,LogisticRegression,"DestCityName__Del Rio, TX",-0.0029746413685799275
+529,LogisticRegression,"OriginCityName__Valdosta, GA",-0.002977807824518675
+530,LogisticRegression,"DestCityName__Dodge City, KS",-0.0029948036466359916
+531,LogisticRegression,"DestCityName__Salisbury, MD",-0.0031071052323194195
+532,LogisticRegression,"DestCityName__Kalamazoo, MI",-0.0031595421778014463
+533,LogisticRegression,"DestCityName__Lake Charles, LA",-0.0031765208240745594
+534,LogisticRegression,DestStateName__California,-0.0031861002479356857
+535,LogisticRegression,"DestCityName__Guam, TT",-0.0031901572785726813
+536,LogisticRegression,"OriginCityName__Meridian, MS",-0.003289209603898577
+537,LogisticRegression,"OriginCityName__Decatur, IL",-0.003328232562677317
+538,LogisticRegression,"DestCityName__Melbourne, FL",-0.003330882062999618
+539,LogisticRegression,"DestCityName__Elko, NV",-0.0033707083263980002
+540,LogisticRegression,"DestCityName__Lynchburg, VA",-0.0033756392984119615
+541,LogisticRegression,"OriginCityName__Cedar City, UT",-0.003447654999175525
+542,LogisticRegression,"DestCityName__Greenville, NC",-0.0034607746307010133
+543,LogisticRegression,"DestCityName__Hobbs, NM",-0.003520434243441538
+544,LogisticRegression,"DestCityName__Bethel, AK",-0.0035475309740389195
+545,LogisticRegression,DestStateName__Missouri,-0.003548148915523355
+546,LogisticRegression,"OriginCityName__Iron Mountain/Kingsfd, MI",-0.0035512388899408267
+547,LogisticRegression,"OriginCityName__Williamsport, PA",-0.003655436938635586
+548,LogisticRegression,"DestCityName__Stillwater, OK",-0.0036736665276291577
+549,LogisticRegression,"DestCityName__Iron Mountain/Kingsfd, MI",-0.0036942223414504365
+550,LogisticRegression,"OriginCityName__Dubuque, IA",-0.0036960162829550998
+551,LogisticRegression,"OriginCityName__Del Rio, TX",-0.003709735271546031
+552,LogisticRegression,"DestCityName__Concord, NC",-0.0037402307253762176
+553,LogisticRegression,"OriginCityName__Greenville, NC",-0.0037581705753577535
+554,LogisticRegression,"OriginCityName__Kearney, NE",-0.003783441470369138
+555,LogisticRegression,"DestCityName__Kotzebue, AK",-0.0038360377158737345
+556,LogisticRegression,"OriginCityName__Ogdensburg, NY",-0.00387958529338953
+557,LogisticRegression,"DestCityName__Hattiesburg/Laurel, MS",-0.003931596304765557
+558,LogisticRegression,"DestCityName__Hibbing, MN",-0.003941553017755931
+559,LogisticRegression,"OriginCityName__Miami, FL",-0.0039826446155896335
+560,LogisticRegression,"OriginCityName__Pierre, SD",-0.0040103954481777995
+561,LogisticRegression,"OriginCityName__Ashland, WV",-0.004112427621762631
+562,LogisticRegression,"DestCityName__Waterloo, IA",-0.004127516353957067
+563,LogisticRegression,DayofMonth__22,-0.004190974679875044
+564,LogisticRegression,"DestCityName__Twin Falls, ID",-0.004198933721955139
+565,LogisticRegression,"DestCityName__Longview, TX",-0.0042339381500937825
+566,LogisticRegression,"OriginCityName__Pueblo, CO",-0.004264931996810299
+567,LogisticRegression,"OriginCityName__Prescott, AZ",-0.004297073140790706
+568,LogisticRegression,"OriginCityName__Albany, NY",-0.00434583333238717
+569,LogisticRegression,"OriginCityName__Everett, WA",-0.0043504899888985055
+570,LogisticRegression,"DestCityName__Watertown, SD",-0.004379984507454126
+571,LogisticRegression,"OriginCityName__Sault Ste. Marie, MI",-0.0044051353359725945
+572,LogisticRegression,"OriginCityName__Watertown, NY",-0.004409462636087643
+573,LogisticRegression,OriginStateName__Maryland,-0.004528422521636445
+574,LogisticRegression,"OriginCityName__Durango, CO",-0.0045900431509105525
+575,LogisticRegression,"OriginCityName__North Platte, NE",-0.004633221810843072
+576,LogisticRegression,"OriginCityName__Alpena, MI",-0.004633454456630119
+577,LogisticRegression,"OriginCityName__International Falls, MN",-0.004639136381085577
+578,LogisticRegression,"DestCityName__Saipan, TT",-0.00467135655582093
+579,LogisticRegression,"DestCityName__Tyler, TX",-0.004682687797160642
+580,LogisticRegression,"OriginCityName__Rhinelander, WI",-0.004696151713700432
+581,LogisticRegression,"DestCityName__Escanaba, MI",-0.004743110117102362
+582,LogisticRegression,"DestCityName__Juneau, AK",-0.004750870740760906
+583,LogisticRegression,"DestCityName__Deadhorse, AK",-0.004752876566074178
+584,LogisticRegression,"DestCityName__Rhinelander, WI",-0.004757434056354584
+585,LogisticRegression,"DestCityName__Brainerd, MN",-0.004783839815113049
+586,LogisticRegression,"OriginCityName__Monroe, LA",-0.004806527315363779
+587,LogisticRegression,"OriginCityName__Watertown, SD",-0.00484504540426444
+588,LogisticRegression,"DestCityName__Bemidji, MN",-0.00485972339697427
+589,LogisticRegression,"OriginCityName__Marquette, MI",-0.004967095641810876
+590,LogisticRegression,"OriginCityName__Lewiston, ID",-0.004979672148137312
+591,LogisticRegression,"DestCityName__North Platte, NE",-0.005021538775673404
+592,LogisticRegression,"OriginCityName__Longview, TX",-0.005045712951698768
+593,LogisticRegression,"DestCityName__Brownsville, TX",-0.005085826250691954
+594,LogisticRegression,"OriginCityName__Brunswick, GA",-0.005149193377764811
+595,LogisticRegression,"DestCityName__Pocatello, ID",-0.005161253012529519
+596,LogisticRegression,"DestCityName__Prescott, AZ",-0.005163432859079662
+597,LogisticRegression,"DestCityName__Provo, UT",-0.005164628053482508
+598,LogisticRegression,"DestCityName__Rock Springs, WY",-0.005175782991489581
+599,LogisticRegression,"OriginCityName__Gulfport/Biloxi, MS",-0.005185709393464264
+600,LogisticRegression,"DestCityName__Santa Barbara, CA",-0.005261494130498588
+601,LogisticRegression,"OriginCityName__Bozeman, MT",-0.00535636984938318
+602,LogisticRegression,DestStateName__New Hampshire,-0.0053710665059720835
+603,LogisticRegression,"DestCityName__Aberdeen, SD",-0.005374061261914657
+604,LogisticRegression,"DestCityName__Nome, AK",-0.00537524289786992
+605,LogisticRegression,"DestCityName__Barrow, AK",-0.005403496915905362
+606,LogisticRegression,"OriginCityName__Hayden, CO",-0.005414150780624224
+607,LogisticRegression,"OriginCityName__Green Bay, WI",-0.005461394324766404
+608,LogisticRegression,"DestCityName__Valdosta, GA",-0.005463928806633086
+609,LogisticRegression,"DestCityName__Lewisburg, WV",-0.005467892051678292
+610,LogisticRegression,"OriginCityName__Wichita Falls, TX",-0.0054881871155053165
+611,LogisticRegression,"OriginCityName__New Bern/Morehead/Beaufort, NC",-0.005585406962676221
+612,LogisticRegression,"OriginCityName__Stockton, CA",-0.005792742783366452
+613,LogisticRegression,"DestCityName__Fayetteville, AR",-0.00580923609272008
+614,LogisticRegression,"DestCityName__Gunnison, CO",-0.005816037453827579
+615,LogisticRegression,"OriginCityName__Memphis, TN",-0.0058296097195286905
+616,LogisticRegression,"DestCityName__Clarksburg/Fairmont, WV",-0.005851764747990613
+617,LogisticRegression,"OriginCityName__Columbus, MS",-0.005861084143476338
+618,LogisticRegression,"OriginCityName__Nome, AK",-0.005861271635412327
+619,LogisticRegression,"OriginCityName__Albany, GA",-0.0058680032425890115
+620,LogisticRegression,"DestCityName__Cape Girardeau, MO",-0.005869942786935299
+621,LogisticRegression,"DestCityName__Columbus, MS",-0.0058949954110235035
+622,LogisticRegression,"OriginCityName__Hobbs, NM",-0.00589770292506381
+623,LogisticRegression,"OriginCityName__Scottsbluff, NE",-0.0059137674000475605
+624,LogisticRegression,"OriginCityName__Staunton, VA",-0.005914849888633136
+625,LogisticRegression,Airline__Cape Air,-0.00593642103285468
+626,LogisticRegression,"DestCityName__Worcester, MA",-0.006021247061063594
+627,LogisticRegression,"OriginCityName__Columbus, GA",-0.006104552113214392
+628,LogisticRegression,"OriginCityName__Dothan, AL",-0.0061158865768815174
+629,LogisticRegression,"DestCityName__Lewiston, ID",-0.006188004701227202
+630,LogisticRegression,DestStateName__South Dakota,-0.0061900091382799255
+631,LogisticRegression,"OriginCityName__Cody, WY",-0.0061918780759890055
+632,LogisticRegression,"DestCityName__Atlantic City, NJ",-0.006196072153652902
+633,LogisticRegression,"DestCityName__Columbia, SC",-0.006269827434616876
+634,LogisticRegression,"DestCityName__Bend/Redmond, OR",-0.006321358961151221
+635,LogisticRegression,"DestCityName__Grand Rapids, MI",-0.006404668198693926
+636,LogisticRegression,"DestCityName__Newburgh/Poughkeepsie, NY",-0.0064386936095598216
+637,LogisticRegression,"DestCityName__Walla Walla, WA",-0.006463848900253456
+638,LogisticRegression,"OriginCityName__Pocatello, ID",-0.006483950770351806
+639,LogisticRegression,"DestCityName__Baton Rouge, LA",-0.006593657067583758
+640,LogisticRegression,"DestCityName__Ketchikan, AK",-0.00662191360038645
+641,LogisticRegression,"OriginCityName__Liberal, KS",-0.006667932631740129
+642,LogisticRegression,OriginStateName__Alabama,-0.0066949209870919004
+643,LogisticRegression,"OriginCityName__Dayton, OH",-0.006748167419118611
+644,LogisticRegression,"OriginCityName__Guam, TT",-0.0067569298066938914
+645,LogisticRegression,DayOfWeek__7,-0.006796965362404283
+646,LogisticRegression,"DestCityName__Panama City, FL",-0.006847107242831494
+647,LogisticRegression,"DestCityName__Sun Valley/Hailey/Ketchum, ID",-0.006847249624541142
+648,LogisticRegression,"DestCityName__Eau Claire, WI",-0.006869410767983627
+649,LogisticRegression,"OriginCityName__Alexandria, LA",-0.0069097735014360465
+650,LogisticRegression,"DestCityName__Sitka, AK",-0.0069909846723863025
+651,LogisticRegression,"OriginCityName__Joplin, MO",-0.0071263304189773564
+652,LogisticRegression,"DestCityName__Albuquerque, NM",-0.0071454581681295575
+653,LogisticRegression,"OriginCityName__Traverse City, MI",-0.007474138249436487
+654,LogisticRegression,"DestCityName__Augusta, GA",-0.007479041773649847
+655,LogisticRegression,"DestCityName__Columbus, GA",-0.0075201386968261
+656,LogisticRegression,"OriginCityName__Latrobe, PA",-0.007602113956210792
+657,LogisticRegression,"DestCityName__Pueblo, CO",-0.007619568854797261
+658,LogisticRegression,"DestCityName__Islip, NY",-0.007691770539524555
+659,LogisticRegression,"OriginCityName__Ketchikan, AK",-0.007809206312507061
+660,LogisticRegression,"DestCityName__Bloomington/Normal, IL",-0.007945534642420664
+661,LogisticRegression,"DestCityName__Hoolehua, HI",-0.007975414470454587
+662,LogisticRegression,"DestCityName__Birmingham, AL",-0.0080204795434485
+663,LogisticRegression,"OriginCityName__Grand Island, NE",-0.008094384769779583
+664,LogisticRegression,"DestCityName__Key West, FL",-0.008314134376792747
+665,LogisticRegression,"OriginCityName__Grand Forks, ND",-0.008494326012411301
+666,LogisticRegression,"DestCityName__Salina, KS",-0.008501727323883986
+667,LogisticRegression,"DestCityName__Grand Forks, ND",-0.008564161774477665
+668,LogisticRegression,"DestCityName__Beaumont/Port Arthur, TX",-0.00868004869843679
+669,LogisticRegression,"OriginCityName__Newport News/Williamsburg, VA",-0.008713819061006713
+670,LogisticRegression,"DestCityName__Rapid City, SD",-0.008769477066109806
+671,LogisticRegression,DestStateName__U.S. Pacific Trust Territories and Possessions,-0.008817851850980725
+672,LogisticRegression,"OriginCityName__Pensacola, FL",-0.008847081504526995
+673,LogisticRegression,"DestCityName__Mission/McAllen/Edinburg, TX",-0.008898022482793063
+674,LogisticRegression,"DestCityName__Christiansted, VI",-0.008972240680614831
+675,LogisticRegression,"DestCityName__Montgomery, AL",-0.00899454078528686
+676,LogisticRegression,"OriginCityName__Niagara Falls, NY",-0.009048912553761328
+677,LogisticRegression,OriginStateName__U.S. Pacific Trust Territories and Possessions,-0.009107197770765232
+678,LogisticRegression,"OriginCityName__Islip, NY",-0.009173476893928549
+679,LogisticRegression,"OriginCityName__Tallahassee, FL",-0.009189378977132468
+680,LogisticRegression,"DestCityName__Nashville, TN",-0.009226465313496844
+681,LogisticRegression,"OriginCityName__St. George, UT",-0.009310421234453605
+682,LogisticRegression,"DestCityName__Knoxville, TN",-0.009423453837954237
+683,LogisticRegression,"DestCityName__Charlottesville, VA",-0.009542770372533625
+684,LogisticRegression,"DestCityName__Santa Fe, NM",-0.009598879510712173
+685,LogisticRegression,"OriginCityName__Melbourne, FL",-0.009808527685394676
+686,LogisticRegression,"DestCityName__Petersburg, AK",-0.00986250086867154
+687,LogisticRegression,"DestCityName__Minot, ND",-0.0098934449246287
+688,LogisticRegression,"DestCityName__South Bend, IN",-0.010358375647642715
+689,LogisticRegression,"OriginCityName__Yuma, AZ",-0.010434289047917456
+690,LogisticRegression,"OriginCityName__Jackson/Vicksburg, MS",-0.01060943682457744
+691,LogisticRegression,"OriginCityName__Greer, SC",-0.010616438741182566
+692,LogisticRegression,"DestCityName__Monroe, LA",-0.010684198943241905
+693,LogisticRegression,DestStateName__Connecticut,-0.01080944606707556
+694,LogisticRegression,"DestCityName__Gainesville, FL",-0.010849935071371905
+695,LogisticRegression,"OriginCityName__Gainesville, FL",-0.010891346996987149
+696,LogisticRegression,"DestCityName__Bakersfield, CA",-0.01102197382931487
+697,LogisticRegression,"DestCityName__Plattsburgh, NY",-0.011176954907331152
+698,LogisticRegression,DestStateName__Kentucky,-0.01120041269193699
+699,LogisticRegression,"OriginCityName__Minot, ND",-0.011423649802629445
+700,LogisticRegression,"OriginCityName__Lexington, KY",-0.011461753482602175
+701,LogisticRegression,"DestCityName__Killeen, TX",-0.011701398868394526
+702,LogisticRegression,"DestCityName__Nantucket, MA",-0.011740073013222831
+703,LogisticRegression,"OriginCityName__Texarkana, AR",-0.011808992406393843
+704,LogisticRegression,"OriginCityName__Manchester, NH",-0.012209079205238045
+705,LogisticRegression,"DestCityName__Elmira/Corning, NY",-0.012270668747633356
+706,LogisticRegression,OriginStateName__Oklahoma,-0.013050689243666976
+707,LogisticRegression,"OriginCityName__Shreveport, LA",-0.013102834914604473
+708,LogisticRegression,"OriginCityName__Hilo, HI",-0.013373746101572926
+709,LogisticRegression,"DestCityName__Louisville, KY",-0.013420075434945222
+710,LogisticRegression,"DestCityName__Hilo, HI",-0.01350022215585641
+711,LogisticRegression,"DestCityName__Helena, MT",-0.013577445316306147
+712,LogisticRegression,"DestCityName__Hartford, CT",-0.013718452655321735
+713,LogisticRegression,"DestCityName__Seattle, WA",-0.013765722261485763
+714,LogisticRegression,"DestCityName__La Crosse, WI",-0.013861354412396517
+715,LogisticRegression,"OriginCityName__Fort Smith, AR",-0.013932880035592421
+716,LogisticRegression,"OriginCityName__White Plains, NY",-0.013996568236657802
+717,LogisticRegression,"OriginCityName__Corpus Christi, TX",-0.014382993560751452
+718,LogisticRegression,"OriginCityName__Little Rock, AR",-0.014414858429977024
+719,LogisticRegression,"DestCityName__Amarillo, TX",-0.014486264228626084
+720,LogisticRegression,"DestCityName__Traverse City, MI",-0.014504627421276235
+721,LogisticRegression,OriginStateName__New Hampshire,-0.014729859782428188
+722,LogisticRegression,"OriginCityName__Bloomington/Normal, IL",-0.015048692285167904
+723,LogisticRegression,"OriginCityName__San Luis Obispo, CA",-0.015159810097396927
+724,LogisticRegression,"DestCityName__Fairbanks, AK",-0.015266155364604463
+725,LogisticRegression,"DestCityName__Madison, WI",-0.015464535308923336
+726,LogisticRegression,"DestCityName__Newport News/Williamsburg, VA",-0.015553203288065944
+727,LogisticRegression,"OriginCityName__Appleton, WI",-0.015759350278326093
+728,LogisticRegression,"OriginCityName__Killeen, TX",-0.015831997168134656
+729,LogisticRegression,"OriginCityName__Kalispell, MT",-0.01603956888052473
+730,LogisticRegression,"OriginCityName__Baltimore, MD",-0.01611570143350138
+731,LogisticRegression,"DestCityName__Bristol/Johnson City/Kingsport, TN",-0.016199538875381725
+732,LogisticRegression,"OriginCityName__Fayetteville, AR",-0.016455872227221117
+733,LogisticRegression,"DestCityName__Missoula, MT",-0.01646020576533332
+734,LogisticRegression,OriginStateName__New Mexico,-0.016653467530965575
+735,LogisticRegression,"OriginCityName__Kahului, HI",-0.016705207755362383
+736,LogisticRegression,"DestCityName__Eugene, OR",-0.016894075079865106
+737,LogisticRegression,OriginStateName__Wisconsin,-0.01714247264084971
+738,LogisticRegression,"DestCityName__Chattanooga, TN",-0.017289419364811785
+739,LogisticRegression,Airline__Virgin America,-0.01755379296937399
+740,LogisticRegression,"DestCityName__Dayton, OH",-0.017924527079709752
+741,LogisticRegression,"DestCityName__Alexandria, LA",-0.01817926713413061
+742,LogisticRegression,"OriginCityName__Montgomery, AL",-0.01818163627312032
+743,LogisticRegression,"OriginCityName__Punta Gorda, FL",-0.018510280677936895
+744,LogisticRegression,DayofMonth__28,-0.018628516493868347
+745,LogisticRegression,"OriginCityName__Oakland, CA",-0.018905351862827498
+746,LogisticRegression,DestStateName__New Mexico,-0.01940428673439965
+747,LogisticRegression,"OriginCityName__Spokane, WA",-0.01942165937818452
+748,LogisticRegression,"DestCityName__San Antonio, TX",-0.019798124322018586
+749,LogisticRegression,"DestCityName__Jackson, WY",-0.019835961261139377
+750,LogisticRegression,"OriginCityName__Grand Junction, CO",-0.01984958564207075
+751,LogisticRegression,"DestCityName__Appleton, WI",-0.01989782113592399
+752,LogisticRegression,DestStateName__Vermont,-0.01998480821200482
+753,LogisticRegression,"DestCityName__Burlington, VT",-0.01998480821200482
+754,LogisticRegression,"OriginCityName__Akron, OH",-0.020159865781135385
+755,LogisticRegression,"DestCityName__Albany, NY",-0.020265768361076724
+756,LogisticRegression,"DestCityName__Tampa, FL",-0.0205136585204986
+757,LogisticRegression,DestStateName__Arkansas,-0.020620049627113883
+758,LogisticRegression,"OriginCityName__Midland/Odessa, TX",-0.021367135382349245
+759,LogisticRegression,"DestCityName__Shreveport, LA",-0.02156050373201675
+760,LogisticRegression,"DestCityName__Great Falls, MT",-0.02194422700622696
+761,LogisticRegression,"OriginCityName__Pittsburgh, PA",-0.021953771249407436
+762,LogisticRegression,"OriginCityName__Idaho Falls, ID",-0.022206013790358258
+763,LogisticRegression,"DestCityName__Harrisburg, PA",-0.02220872390378273
+764,LogisticRegression,"DestCityName__San Luis Obispo, CA",-0.022727466557519536
+765,LogisticRegression,"Airline__GoJet Airlines, LLC d/b/a United Express",-0.023201222744196774
+766,LogisticRegression,"OriginCityName__Mosinee, WI",-0.02324846547145291
+767,LogisticRegression,"DestCityName__Ontario, CA",-0.02342365691473199
+768,LogisticRegression,DestStateName__Ohio,-0.02391784329441061
+769,LogisticRegression,"OriginCityName__Columbus, OH",-0.02391905715220162
+770,LogisticRegression,"OriginCityName__Billings, MT",-0.023963132681038665
+771,LogisticRegression,DestStateName__Nebraska,-0.023984909011462566
+772,LogisticRegression,"OriginCityName__West Palm Beach/Palm Beach, FL",-0.024344571661526405
+773,LogisticRegression,"DestCityName__St. George, UT",-0.025503279208281517
+774,LogisticRegression,"DestCityName__Miami, FL",-0.02558566189043168
+775,LogisticRegression,"DestCityName__Billings, MT",-0.025615781561499268
+776,LogisticRegression,"OriginCityName__San Diego, CA",-0.026080988386756203
+777,LogisticRegression,DayofMonth__14,-0.026125106571357533
+778,LogisticRegression,OriginStateName__Puerto Rico,-0.026421889428618346
+779,LogisticRegression,"DestCityName__Charlotte Amalie, VI",-0.026502575024446695
+780,LogisticRegression,OriginStateName__Mississippi,-0.02659644972503889
+781,LogisticRegression,DayofMonth__17,-0.026972662318431706
+782,LogisticRegression,"OriginCityName__Fort Myers, FL",-0.027023861826758894
+783,LogisticRegression,"OriginCityName__Reno, NV",-0.02721829443553557
+784,LogisticRegression,"OriginCityName__Missoula, MT",-0.02733509666319768
+785,LogisticRegression,"DestCityName__Corpus Christi, TX",-0.027712863904921923
+786,LogisticRegression,"OriginCityName__Syracuse, NY",-0.027998239847537586
+787,LogisticRegression,"OriginCityName__Des Moines, IA",-0.028037551172228548
+788,LogisticRegression,DestStateName__Alabama,-0.029043355598548284
+789,LogisticRegression,"DestCityName__Charleston, SC",-0.029409303506015734
+790,LogisticRegression,"DestCityName__Grand Junction, CO",-0.029850185938824485
+791,LogisticRegression,"DestCityName__Indianapolis, IN",-0.029981928243923556
+792,LogisticRegression,"DestCityName__Palm Springs, CA",-0.030163676493790054
+793,LogisticRegression,DayofMonth__24,-0.03049727540248375
+794,LogisticRegression,"DestCityName__Harlingen/San Benito, TX",-0.030536527249532115
+795,LogisticRegression,"OriginCityName__Cincinnati, OH",-0.030779656755126915
+796,LogisticRegression,"OriginCityName__Providence, RI",-0.03095878625066212
+797,LogisticRegression,OriginStateName__Rhode Island,-0.03095878625066212
+798,LogisticRegression,"DestCityName__Huntsville, AL",-0.031186081027435936
+799,LogisticRegression,"OriginCityName__St. Louis, MO",-0.031243467497887995
+800,LogisticRegression,"OriginCityName__Fresno, CA",-0.03135296937495602
+801,LogisticRegression,"DestCityName__Cincinnati, OH",-0.03148902919108299
+802,LogisticRegression,"OriginCityName__Long Beach, CA",-0.03178741574335745
+803,LogisticRegression,"OriginCityName__Palm Springs, CA",-0.03197538902486799
+804,LogisticRegression,"DestCityName__Kansas City, MO",-0.03234752686528026
+805,LogisticRegression,"OriginCityName__San Juan, PR",-0.03311363275406651
+806,LogisticRegression,"DestCityName__Bozeman, MT",-0.0331388022885753
+807,LogisticRegression,"DestCityName__Fort Wayne, IN",-0.033141425359415264
+808,LogisticRegression,"OriginCityName__Panama City, FL",-0.03336833014199582
+809,LogisticRegression,"OriginCityName__Chattanooga, TN",-0.03377258307473267
+810,LogisticRegression,"OriginCityName__Santa Ana, CA",-0.03392736794384746
+811,LogisticRegression,"OriginCityName__Albuquerque, NM",-0.03447873827859527
+812,LogisticRegression,"DestCityName__Milwaukee, WI",-0.035099106889451975
+813,LogisticRegression,"OriginCityName__Tucson, AZ",-0.03512460675464611
+814,LogisticRegression,DestStateName__U.S. Virgin Islands,-0.03547481570813092
+815,LogisticRegression,"DestCityName__Kahului, HI",-0.03638964815119167
+816,LogisticRegression,OriginStateName__Oregon,-0.03660764064160694
+817,LogisticRegression,"DestCityName__Reno, NV",-0.03721591607959323
+818,LogisticRegression,"DestCityName__Fresno, CA",-0.037927606013873814
+819,LogisticRegression,Airline__Spirit Air Lines,-0.03842174639536803
+820,LogisticRegression,"DestCityName__Little Rock, AR",-0.040524600549230225
+821,LogisticRegression,"DestCityName__Honolulu, HI",-0.0416675640023548
+822,LogisticRegression,OriginStateName__Indiana,-0.0420499745611569
+823,LogisticRegression,"OriginCityName__Nashville, TN",-0.04207752583460456
+824,LogisticRegression,"DestCityName__Oakland, CA",-0.04278807999874716
+825,LogisticRegression,DayOfWeek__5,-0.043452638348781006
+826,LogisticRegression,"DestCityName__Omaha, NE",-0.04352034519272815
+827,LogisticRegression,"DestCityName__Kona, HI",-0.04410617031996564
+828,LogisticRegression,Airline__SkyWest Airlines Inc.,-0.04423502182598592
+829,LogisticRegression,DayOfWeek__2,-0.0444778073186498
+830,LogisticRegression,"DestCityName__Houston, TX",-0.04480691351757962
+831,LogisticRegression,"DestCityName__Spokane, WA",-0.045832122227885574
+832,LogisticRegression,"OriginCityName__Louisville, KY",-0.04601902892706758
+833,LogisticRegression,DestStateName__Puerto Rico,-0.04633766750970818
+834,LogisticRegression,"OriginCityName__Portland, OR",-0.04690053724142282
+835,LogisticRegression,"OriginCityName__Austin, TX",-0.04761798877046361
+836,LogisticRegression,"DestCityName__Columbus, OH",-0.04765362209347201
+837,LogisticRegression,"OriginCityName__San Antonio, TX",-0.0478913199423986
+838,LogisticRegression,"DestCityName__Pittsburgh, PA",-0.048158958212288556
+839,LogisticRegression,DestStateName__Tennessee,-0.0486269649272321
+840,LogisticRegression,"DestCityName__Charlotte, NC",-0.0486685944392791
+841,LogisticRegression,"DestCityName__San Juan, PR",-0.049511182273227476
+842,LogisticRegression,"OriginCityName__Columbia, SC",-0.050402344573745095
+843,LogisticRegression,"DestCityName__Tulsa, OK",-0.05125088233584588
+844,LogisticRegression,"OriginCityName__Denver, CO",-0.05243778459954973
+845,LogisticRegression,"OriginCityName__Lihue, HI",-0.052445552439023935
+846,LogisticRegression,"DestCityName__Long Beach, CA",-0.053722391360606345
+847,LogisticRegression,DestStateName__Indiana,-0.054857784212153704
+848,LogisticRegression,"OriginCityName__Ontario, CA",-0.055515675887247734
+849,LogisticRegression,DayofMonth__16,-0.05601149063649782
+850,LogisticRegression,OriginStateName__Arkansas,-0.0566126030972901
+851,LogisticRegression,"DestCityName__Oklahoma City, OK",-0.05671437854220061
+852,LogisticRegression,"OriginCityName__El Paso, TX",-0.057232475707879704
+853,LogisticRegression,"DestCityName__El Paso, TX",-0.05723962100740906
+854,LogisticRegression,"DestCityName__Lihue, HI",-0.057495872018244576
+855,LogisticRegression,"DestCityName__Fort Myers, FL",-0.05776300142145161
+856,LogisticRegression,DayofMonth__20,-0.05815441181812543
+857,LogisticRegression,"OriginCityName__Indianapolis, IN",-0.05852124996731394
+858,LogisticRegression,Airline__Alaska Airlines Inc.,-0.0592810980681482
+859,LogisticRegression,DestStateName__Florida,-0.061318609746162434
+860,LogisticRegression,OriginStateName__Tennessee,-0.061834491329736084
+861,LogisticRegression,"DestCityName__Santa Ana, CA",-0.06234934885943237
+862,LogisticRegression,DayofMonth__3,-0.0626931129317263
+863,LogisticRegression,OriginStateName__North Carolina,-0.06397649556933907
+864,LogisticRegression,"DestCityName__Tucson, AZ",-0.06725429049865211
+865,LogisticRegression,"OriginCityName__Orlando, FL",-0.06941909639563386
+866,LogisticRegression,Airline__Frontier Airlines Inc.,-0.06976650387303335
+867,LogisticRegression,"OriginCityName__Oklahoma City, OK",-0.07111928900786016
+868,LogisticRegression,DayofMonth__18,-0.07515661164807562
+869,LogisticRegression,OriginStateName__Montana,-0.07534455484191299
+870,LogisticRegression,"DestCityName__Fort Lauderdale, FL",-0.08333218681884078
+871,LogisticRegression,"DestCityName__San Diego, CA",-0.08498046723329421
+872,LogisticRegression,DestStateName__Wisconsin,-0.08682493438371205
+873,LogisticRegression,"DestCityName__Sacramento, CA",-0.08813231723413956
+874,LogisticRegression,"DestCityName__Las Vegas, NV",-0.08944849176954786
+875,LogisticRegression,Airline__Compass Airlines,-0.0906213957347303
+876,LogisticRegression,"DestCityName__Austin, TX",-0.09071132065076362
+877,LogisticRegression,OriginStateName__Kentucky,-0.09126682427794985
+878,LogisticRegression,"DestCityName__Boise, ID",-0.09141973396135306
+879,LogisticRegression,OriginStateName__Idaho,-0.0915359663408151
+880,LogisticRegression,OriginStateName__California,-0.09527118472163039
+881,LogisticRegression,OriginStateName__Washington,-0.09821008468594117
+882,LogisticRegression,"OriginCityName__Honolulu, HI",-0.09825557816106108
+883,LogisticRegression,Year__2021,-0.09913565610336018
+884,LogisticRegression,DestStateName__Oklahoma,-0.09937490376291218
+885,LogisticRegression,DayofMonth__4,-0.09978608505217751
+886,LogisticRegression,"DestCityName__Orlando, FL",-0.1004607574271733
+887,LogisticRegression,DestStateName__Montana,-0.10556373841565192
+888,LogisticRegression,"OriginCityName__Sacramento, CA",-0.1060272475530407
+889,LogisticRegression,"OriginCityName__Boise, ID",-0.10744436608928169
+890,LogisticRegression,OriginStateName__Hawaii,-0.10746175805888034
+891,LogisticRegression,DestStateName__Idaho,-0.11380997726669713
+892,LogisticRegression,"OriginCityName__Los Angeles, CA",-0.11472876606316824
+893,LogisticRegression,OriginStateName__Florida,-0.11571285524591693
+894,LogisticRegression,"DestCityName__Phoenix, AZ",-0.11611903294937932
+895,LogisticRegression,"OriginCityName__Houston, TX",-0.1252206012261053
+896,LogisticRegression,Month__10,-0.12594515231520054
+897,LogisticRegression,DestStateName__Minnesota,-0.12783724265388807
+898,LogisticRegression,DestStateName__Nevada,-0.13003511619220723
+899,LogisticRegression,"OriginCityName__Fort Lauderdale, FL",-0.13082461098340684
+900,LogisticRegression,"OriginCityName__Charlotte, NC",-0.13228979585525671
+901,LogisticRegression,DayofMonth__9,-0.1326693271081045
+902,LogisticRegression,OriginStateName__Minnesota,-0.1343670393150105
+903,LogisticRegression,"OriginCityName__Seattle, WA",-0.14111663679066905
+904,LogisticRegression,"OriginCityName__Las Vegas, NV",-0.14161063860270373
+905,LogisticRegression,"OriginCityName__Phoenix, AZ",-0.1434716101161234
+906,LogisticRegression,Airline__JetBlue Airways,-0.14560017279706772
+907,LogisticRegression,Month__2,-0.1456764672709841
+908,LogisticRegression,DestStateName__Georgia,-0.1515294427318695
+909,LogisticRegression,DestStateName__Arizona,-0.1546485725771999
+910,LogisticRegression,OriginStateName__Nevada,-0.15489727076893445
+911,LogisticRegression,"DestCityName__Portland, OR",-0.15598756691777088
+912,LogisticRegression,DayofMonth__13,-0.15884288220283482
+913,LogisticRegression,"DestCityName__Minneapolis, MN",-0.16041357481907834
+914,LogisticRegression,DestStateName__Oregon,-0.1654137210628367
+915,LogisticRegression,DayOfWeek__6,-0.16927053448747306
+916,LogisticRegression,Month__7,-0.16945937537776315
+917,LogisticRegression,Quarter__3,-0.17032853777912957
+918,LogisticRegression,DestStateName__Hawaii,-0.1725365525706788
+919,LogisticRegression,DayofMonth__10,-0.17323473693409358
+920,LogisticRegression,OriginStateName__Georgia,-0.17324108278388964
+921,LogisticRegression,DestStateName__Michigan,-0.1791373615590062
+922,LogisticRegression,OriginStateName__Arizona,-0.19030436841680837
+923,LogisticRegression,DayofMonth__8,-0.19272882538985306
+924,LogisticRegression,Year__2019,-0.19650931669408983
+925,LogisticRegression,DayofMonth__19,-0.19849894454710557
+926,LogisticRegression,"OriginCityName__Minneapolis, MN",-0.19871310502192147
+927,LogisticRegression,"DestCityName__Salt Lake City, UT",-0.20205213113666648
+928,LogisticRegression,"DestCityName__Atlanta, GA",-0.20270018128824402
+929,LogisticRegression,"OriginCityName__Atlanta, GA",-0.20743927220000513
+930,LogisticRegression,Month__9,-0.21016393330779165
+931,LogisticRegression,DestStateName__Utah,-0.21680160476455684
+932,LogisticRegression,"DestCityName__Detroit, MI",-0.21863380800754917
+933,LogisticRegression,OriginStateName__Michigan,-0.21870320030073725
+934,LogisticRegression,Airline__Hawaiian Airlines Inc.,-0.24532596990108266
+935,LogisticRegression,DayofMonth__5,-0.2489051981144042
+936,LogisticRegression,"OriginCityName__Detroit, MI",-0.2499537639332568
+937,LogisticRegression,OriginStateName__Utah,-0.2585140692053656
+938,LogisticRegression,"OriginCityName__Salt Lake City, UT",-0.2630026480431131
+939,LogisticRegression,DayofMonth__6,-0.28817342229968074
+940,LogisticRegression,DayofMonth__23,-0.31999943841891987
+941,LogisticRegression,Airline__Republic Airlines,-0.3371415622268138
+942,LogisticRegression,Year__2018,-0.3708106624740271
+943,LogisticRegression,DayofMonth__12,-0.40103439266841967
+944,LogisticRegression,Month__1,-0.42334300021172777
+945,LogisticRegression,Quarter__4,-0.4938270010740601
+946,LogisticRegression,Airline__Endeavor Air Inc.,-0.4951442983724005
+947,LogisticRegression,Month__5,-0.4982422383135999
+948,LogisticRegression,Month__11,-0.5047622489210973
+949,LogisticRegression,Airline__United Air Lines Inc.,-0.5343619770963409
+950,LogisticRegression,Airline__Delta Air Lines Inc.,-0.5446721384696517
+951,LogisticRegression,Month__6,-0.6456425064341373
