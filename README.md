@@ -2,6 +2,7 @@
 
 COSC3117 - Artificial Intelligence - Algoma University
 By: Erin Cameron
+---
 
 
 ### Overview
