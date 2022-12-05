@@ -1,7 +1,8 @@
 # PredictingFlightDelay
+
 COSC3117 - Artificial Intelligence - Algoma University
 By: Erin Cameron
----
+
 
 ### Overview
 The aim of this project is to use a publicly available dataset that describes worldwide Flight Status information from 2018-2021 to predict whether a flight is cancelled or not. The classification algorithms I chose for this project are: Logistic Regression, Naive Bayes’ Classifier and Random Forest. All three models were implemented using Python’s scikit-learn machine learning library.
