@@ -1,7 +1,7 @@
 # PredictingFlightDelay
 
-COSC3117 - Artificial Intelligence - Algoma University  
-By: Erin Cameron
+#### _COSC3117 - Artificial Intelligence - Algoma University_  
+#### _By: Erin Cameron_
 
 
 
